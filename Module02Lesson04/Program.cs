@@ -5,7 +5,7 @@ string surname = "Kowalski";
 int age = 36;
 char sex = 'm';
 string pesel = "87080000000";
-long idEmployee = 20240329;
+string idEmployee = "20240329";
 
 Console.WriteLine("Sprawdzanie bazy pracowników...:");
 Console.WriteLine($"Pracownik: {firstName} {surname} w wieku {age} lat, o numerze PESEL: {pesel} i identyfikatorze numer: {idEmployee} - widnieje w bazie danych.");
